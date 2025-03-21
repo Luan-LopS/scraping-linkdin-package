@@ -18,9 +18,6 @@ pip install scraping-linkdin-package
 
 ```python
 from scraping_linkdin.scraping.linkdin_scraping import run
-
-# Call the run() function with the parameters: vacancy, country, state and city
-run("Desenvolvedor Python", "Brasil", "São Paulo", "São Paulo")
 ```
 
 ## Author
